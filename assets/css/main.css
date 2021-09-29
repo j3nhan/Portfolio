@@ -2189,3 +2189,9 @@ input, select, textarea {
 			}
 
 		}
+
+.new-arrow {
+	position: relative;
+	left: 95%;
+	bottom: 38%;
+}
