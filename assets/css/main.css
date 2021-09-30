@@ -2200,3 +2200,40 @@ input, select, textarea {
 	font-size: 80px;
 }
 
+.logo-cont {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	margin-bottom: 20px;
+}
+
+.logo {
+	object-fit: contain;
+	height: 50px;
+	width: 50px;
+	margin: 10px;
+}
+
+.title {
+	font-weight: 700;
+}
+
+.description {
+	margin: 10px;
+	font-size: 18px;
+}
+
+.fun-intro {
+	font-size: 17px !important;
+	font-weight: 400;
+}
+
+.connectlinks {
+	text-decoration: none;
+	color: #777777;
+	font-weight: 530;
+}
+
+.connectlinks:hover {
+	color: rgb(70, 161, 191);
+}
