@@ -2237,3 +2237,16 @@ input, select, textarea {
 .connectlinks:hover {
 	color: rgb(70, 161, 191);
 }
+
+.individual-project {
+	display: flex;
+	justify-content: space-between;
+}
+
+.proj-description {
+	font-size: 16px;
+}
+
+.proj-img {
+	padding-right: 30px;
+}
