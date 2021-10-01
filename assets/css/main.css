@@ -2250,3 +2250,21 @@ input, select, textarea {
 .proj-img {
 	padding-right: 30px;
 }
+
+.buttons {
+	padding-top: 10px;
+	margin-left: 104px;
+}
+
+.btn {
+	background: white;
+	border: 2px solid rgba(24, 173, 199, 0.836);
+	color: rgba(24, 173, 199, 0.836);
+	border-radius: 10px;
+	margin: 4px;
+}
+
+.btn:hover {
+	background-color: rgba(24, 173, 199, 0.836);
+	color: white;
+}
