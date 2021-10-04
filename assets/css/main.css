@@ -2268,3 +2268,12 @@ input, select, textarea {
 	background-color: rgba(24, 173, 199, 0.836);
 	color: white;
 }
+
+.skills-icon {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.skills-icon > i {
+	padding: 15px;
+}
